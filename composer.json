@@ -17,7 +17,7 @@
   },
     "repositories": [
     {
-      "type": "flarum-extension",
+      "type": "vcs",
       "url": "https://github.com/UraganHokagi/flarum-category-russian.git"
     }
   ],
