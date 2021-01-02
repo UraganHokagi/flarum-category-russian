@@ -15,6 +15,12 @@
     "flarum/core": "^0.1.0-beta.15",
     "flarum/tags": "^0.1.0-beta.15"
   },
+    "repositories": [
+    {
+      "type": "flarum-extension",
+      "url": "https://github.com/UraganHokagi/flarum-category-russian.git"
+    }
+  ],
   "authors": [
     {
       "name": "Morgan Dusty",
