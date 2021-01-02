@@ -12,13 +12,14 @@
     "forum": "https://discuss.flarum.org/d/23184-flarum-categories"
   },
   "require": {
+    "morgandusty/flarum-category-russian": "dev-master"
     "flarum/core": "^0.1.0-beta.15",
     "flarum/tags": "^0.1.0-beta.15"
   },
       "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/UraganHokagi/flarum-category-russian"
+            "url": "https://github.com/morgandusty/flarum-category-russian"
         }
     ],
   "authors": [
