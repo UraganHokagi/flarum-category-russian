@@ -1,5 +1,5 @@
 {
-  "name": "UraganHokagi/flarum-category-russian",
+  "name": "morgandusty/flarum-category-russian",
   "description": "Traditional Category Layout for Flarum",
   "keywords": [
     "flarum"
@@ -30,7 +30,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "UraganHokagi\\flarum-category-russian\\": "src/"
+      "morgandusty\\flarum-category-russian\\": "src/"
     }
   },
   "extra": {
