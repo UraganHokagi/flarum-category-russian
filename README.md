@@ -17,13 +17,13 @@ https://forum.youthneuro.org
 Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
 
 ```sh
-composer require askvortsov/flarum-categories
+composer require UraganHokagi/flarum-category-russian
 ```
 
 ### Updating
 
 ```sh
-composer update askvortsov/flarum-categories
+composer update UraganHokagi/flarum-category-russian
 ```
 
 ### Feedback and Suggestions
@@ -33,5 +33,5 @@ I am very open to feedback and feature suggestions! Please comment on discuss or
 ### Links
 
 - [Packagist](https://packagist.org/packages/askvortsov/flarum-categories)
-- [Github](https://github.com/askvortsov1/flarum-categories)
+- [Github](https://github.com/UraganHokagi/flarum-category-russian)
 - [Discuss](https://discuss.flarum.org/d/23184-flarum-categories)
